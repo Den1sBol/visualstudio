@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\visual studio lab\lab6\lab6-1(triple des)\lab6-1(triple des)\bin\Debug\netcoreapp3.1\lab6-1(triple des).exe
+C:\Users\User\Desktop\visual studio lab\lab6\lab6-1(triple des)\lab6-1(triple des)\bin\Debug\netcoreapp3.1\lab6-1(triple des).deps.json
+C:\Users\User\Desktop\visual studio lab\lab6\lab6-1(triple des)\lab6-1(triple des)\bin\Debug\netcoreapp3.1\lab6-1(triple des).runtimeconfig.json
+C:\Users\User\Desktop\visual studio lab\lab6\lab6-1(triple des)\lab6-1(triple des)\bin\Debug\netcoreapp3.1\lab6-1(triple des).runtimeconfig.dev.json
+C:\Users\User\Desktop\visual studio lab\lab6\lab6-1(triple des)\lab6-1(triple des)\bin\Debug\netcoreapp3.1\lab6-1(triple des).dll
+C:\Users\User\Desktop\visual studio lab\lab6\lab6-1(triple des)\lab6-1(triple des)\bin\Debug\netcoreapp3.1\lab6-1(triple des).pdb
+C:\Users\User\Desktop\visual studio lab\lab6\lab6-1(triple des)\lab6-1(triple des)\obj\Debug\netcoreapp3.1\lab6-1(triple des).csproj.AssemblyReference.cache
+C:\Users\User\Desktop\visual studio lab\lab6\lab6-1(triple des)\lab6-1(triple des)\obj\Debug\netcoreapp3.1\lab6-1(triple des).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\visual studio lab\lab6\lab6-1(triple des)\lab6-1(triple des)\obj\Debug\netcoreapp3.1\lab6-1(triple des).AssemblyInfoInputs.cache
+C:\Users\User\Desktop\visual studio lab\lab6\lab6-1(triple des)\lab6-1(triple des)\obj\Debug\netcoreapp3.1\lab6-1(triple des).AssemblyInfo.cs
+C:\Users\User\Desktop\visual studio lab\lab6\lab6-1(triple des)\lab6-1(triple des)\obj\Debug\netcoreapp3.1\lab6-1(triple des).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\visual studio lab\lab6\lab6-1(triple des)\lab6-1(triple des)\obj\Debug\netcoreapp3.1\lab6-1(triple des).dll
+C:\Users\User\Desktop\visual studio lab\lab6\lab6-1(triple des)\lab6-1(triple des)\obj\Debug\netcoreapp3.1\lab6-1(triple des).pdb
+C:\Users\User\Desktop\visual studio lab\lab6\lab6-1(triple des)\lab6-1(triple des)\obj\Debug\netcoreapp3.1\lab6-1(triple des).genruntimeconfig.cache

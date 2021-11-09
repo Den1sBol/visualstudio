@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\visual studio lab\lab6\lab6-1(des)\lab6-1(des)\bin\Debug\netcoreapp3.1\lab6-1(des).exe
+C:\Users\User\Desktop\visual studio lab\lab6\lab6-1(des)\lab6-1(des)\bin\Debug\netcoreapp3.1\lab6-1(des).deps.json
+C:\Users\User\Desktop\visual studio lab\lab6\lab6-1(des)\lab6-1(des)\bin\Debug\netcoreapp3.1\lab6-1(des).runtimeconfig.json
+C:\Users\User\Desktop\visual studio lab\lab6\lab6-1(des)\lab6-1(des)\bin\Debug\netcoreapp3.1\lab6-1(des).runtimeconfig.dev.json
+C:\Users\User\Desktop\visual studio lab\lab6\lab6-1(des)\lab6-1(des)\bin\Debug\netcoreapp3.1\lab6-1(des).dll
+C:\Users\User\Desktop\visual studio lab\lab6\lab6-1(des)\lab6-1(des)\bin\Debug\netcoreapp3.1\lab6-1(des).pdb
+C:\Users\User\Desktop\visual studio lab\lab6\lab6-1(des)\lab6-1(des)\obj\Debug\netcoreapp3.1\lab6-1(des).csproj.AssemblyReference.cache
+C:\Users\User\Desktop\visual studio lab\lab6\lab6-1(des)\lab6-1(des)\obj\Debug\netcoreapp3.1\lab6-1(des).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\visual studio lab\lab6\lab6-1(des)\lab6-1(des)\obj\Debug\netcoreapp3.1\lab6-1(des).AssemblyInfoInputs.cache
+C:\Users\User\Desktop\visual studio lab\lab6\lab6-1(des)\lab6-1(des)\obj\Debug\netcoreapp3.1\lab6-1(des).AssemblyInfo.cs
+C:\Users\User\Desktop\visual studio lab\lab6\lab6-1(des)\lab6-1(des)\obj\Debug\netcoreapp3.1\lab6-1(des).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\visual studio lab\lab6\lab6-1(des)\lab6-1(des)\obj\Debug\netcoreapp3.1\lab6-1(des).dll
+C:\Users\User\Desktop\visual studio lab\lab6\lab6-1(des)\lab6-1(des)\obj\Debug\netcoreapp3.1\lab6-1(des).pdb
+C:\Users\User\Desktop\visual studio lab\lab6\lab6-1(des)\lab6-1(des)\obj\Debug\netcoreapp3.1\lab6-1(des).genruntimeconfig.cache
