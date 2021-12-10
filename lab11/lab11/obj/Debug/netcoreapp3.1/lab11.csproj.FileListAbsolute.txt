@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\visual studio lab\lab11\lab11\obj\Debug\netcoreapp3.1\lab11.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\visual studio lab\lab11\lab11\obj\Debug\netcoreapp3.1\lab11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\visual studio lab\lab11\lab11\obj\Debug\netcoreapp3.1\lab11.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\visual studio lab\lab11\lab11\obj\Debug\netcoreapp3.1\lab11.AssemblyInfo.cs
+C:\Users\User\Desktop\visual studio lab\lab11\lab11\obj\Debug\netcoreapp3.1\lab11.csproj.CoreCompileInputs.cache
